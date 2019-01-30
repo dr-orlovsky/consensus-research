@@ -1,2 +1,4 @@
-# consensus-research
-Researching blockchain-based consensus protocols to develop optimal bft consensus for Typhon sidechains
+# Consensus Research
+
+Researching blockchain-based consensus protocols to develop optimal one for [Typhon sidechains](https://github.com/dr-orlovsky/typhon-spec).
+
